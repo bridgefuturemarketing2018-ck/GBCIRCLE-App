@@ -12,11 +12,11 @@ new_classes = ["StarterDurable"]
 
 routes = [
   { pattern = "https://gbcircle.com/*", zone_name = "gbcircle.com" },
-  { pattern = "https://bridgefutureglobal.com/*", zone_name = "bridgefutureglobal.com" },
+  { pattern = "https://bridgefuture.global/*", zone_name = "bridgefuture.global" },
   { pattern = "https://globalbusinesscamerainsight.com/*", zone_name = "globalbusinesscamerainsight.com" }
 ]
 
 [vars]
 ENVIRONMENT = "production"
 APP_NAME = "gbcircle-compliance"
-COMPLIANCE_DOMAINS = "gbcircle.com,bridgefutureglobal.com,globalbusinesscamerainsight.com"
+COMPLIANCE_DOMAINS = "gbcircle.com,bridgefuture.global,globalbusinesscamerainsight.com"
