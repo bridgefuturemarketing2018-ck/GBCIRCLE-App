@@ -4,7 +4,7 @@ Compliance — Wellness Surveillance & Healing System for the besttol-App ecosys
 
 ## Overview
 
-`besttol` provides **all-time surveillance** of the application ecosystem with automatic detection and healing of degraded or unhealthy components:
+`gbcircle` provides **all-time surveillance** of the application ecosystem with automatic detection and healing of degraded or unhealthy components:
 
 | Component | Description |
 |---|---|
