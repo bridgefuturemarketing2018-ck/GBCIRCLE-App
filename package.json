@@ -1,7 +1,7 @@
 {
-  "name": "besttol",
+  "name": "gbcircle",
   "version": "1.0.0",
-  "description": "Compliance — wellness surveillance and healing system for besttol ecosystems",
+  "description": "Compliance — wellness surveillance and healing system for gbcircle ecosystems",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
