@@ -1,6 +1,6 @@
 # gbcircle
 
-Compliance — Wellness Surveillance & Healing System for the besttol-App ecosystem.
+Compliance — Wellness Surveillance & Healing System for the gbcircle-App ecosystem.
 
 ## Overview
 
@@ -29,7 +29,7 @@ npm run monitor
 
 | Environment Variable | Default | Description |
 |---|---|---|
-| `BESTTOL_INTERVAL_MS` | `30000` | Polling interval in milliseconds |
+| `GBCIRCLE_INTERVAL_MS` | `30000` | Polling interval in milliseconds |
 | `BESTTOL_AUTO_HEAL` | `true` | Set to `false` to disable automatic healing |
 
 ## Tests
